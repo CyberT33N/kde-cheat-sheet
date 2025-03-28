@@ -4,5 +4,5 @@
 <br><br>
 
 
-# dd a new application to Application Launcher
+# add a new application to Application Launcher
 - Search `Menu Editor`
